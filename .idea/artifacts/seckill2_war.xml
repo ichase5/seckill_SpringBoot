@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="seckill2:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>seckill2</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="seckill2-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="seckill2:war exploded" />
+    </root>
+  </artifact>
+</component>

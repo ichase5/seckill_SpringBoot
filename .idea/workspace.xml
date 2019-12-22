@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64263946-67a8-40d8-aee6-b689fddad852" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="seckill2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V3jVpTLl5z0EY2I4RwmpJPcYqi" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.seckill2.redis" />
+      <recent name="com.example.seckill2.service.impl" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.seckill2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.seckill2.redis" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\28614\IdeaProjects\seckill2\src\main\java\com\example\seckill2\controller" />
+      <recent name="C:\Users\28614\IdeaProjects\seckill2\src\main\java\com\example\seckill2\vo" />
+      <recent name="C:\Users\28614\IdeaProjects\seckill2\src\main\resources\static" />
+      <recent name="C:\Users\28614\IdeaProjects\seckill2\src\main\java\com\example\seckill2\util" />
+      <recent name="C:\Users\28614\IdeaProjects\seckill2\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Seckill2Application">
+    <configuration name="MD5Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.seckill2.util.MD5Util" />
+      <module name="seckill2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.seckill2.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneValidatorUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.seckill2.util.PhoneValidatorUtil" />
+      <module name="seckill2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.seckill2.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillTestUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.seckill2.util.SeckillTestUtil" />
+      <module name="seckill2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.seckill2.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seckill2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seckill2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.seckill2.Seckill2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SeckillTestUtil" />
+        <item itemvalue="Application.PhoneValidatorUtil" />
+        <item itemvalue="Application.MD5Util" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64263946-67a8-40d8-aee6-b689fddad852" name="Default Changelist" comment="" />
+      <created>1576488698045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576488698045</updated>
+      <workItem from="1576488702786" duration="71413000" />
+      <workItem from="1576724577485" duration="98703000" />
+      <workItem from="1576995066646" duration="2023000" />
+      <workItem from="1576997369108" duration="1006000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="684" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576651970934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="684" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576651970934" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1576897478097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576897478097" />
+    <state x="661" y="259" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1576841816480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="259" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576841816480" />
+    <state x="558" y="451" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576898506619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="451" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576898506619" />
+    <state x="744" y="412" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1576561328607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="412" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1576561328607" />
+    <state x="704" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576660275546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576660275546" />
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576747629724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576747629724" />
+    <state x="817" y="269" key="FileChooserDialogImpl" timestamp="1576998607786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="817" y="269" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576998607786" />
+    <state width="1877" height="88" key="GridCell.Tab.0.bottom" timestamp="1576997094719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="88" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576997094719" />
+    <state width="1877" height="88" key="GridCell.Tab.0.center" timestamp="1576997094719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="88" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576997094719" />
+    <state width="1877" height="88" key="GridCell.Tab.0.left" timestamp="1576997094719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="88" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576997094719" />
+    <state width="1877" height="88" key="GridCell.Tab.0.right" timestamp="1576997094719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="88" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576997094719" />
+    <state width="1877" height="88" key="GridCell.Tab.1.bottom" timestamp="1576997094720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="88" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576997094720" />
+    <state width="1877" height="88" key="GridCell.Tab.1.center" timestamp="1576997094720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="88" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576997094720" />
+    <state width="1877" height="88" key="GridCell.Tab.1.left" timestamp="1576997094720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="88" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576997094720" />
+    <state width="1877" height="88" key="GridCell.Tab.1.right" timestamp="1576997094720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="88" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576997094720" />
+    <state width="1877" height="309" key="GridCell.Tab.2.bottom" timestamp="1576994939026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="309" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576994939026" />
+    <state width="1877" height="309" key="GridCell.Tab.2.center" timestamp="1576994939026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="309" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576994939026" />
+    <state width="1877" height="309" key="GridCell.Tab.2.left" timestamp="1576994939026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="309" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576994939026" />
+    <state width="1877" height="309" key="GridCell.Tab.2.right" timestamp="1576994939026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="309" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576994939026" />
+    <state x="415" y="301" key="SettingsEditor" timestamp="1576998572963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="415" y="301" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576998572963" />
+    <state x="713" y="250" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1576674763670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="250" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576674763670" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1576652013650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1576652013650" />
+    <state x="813" y="248" width="672" height="678" key="search.everywhere.popup" timestamp="1576995198948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="813" y="248" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576995198948" />
+  </component>
+</project>
