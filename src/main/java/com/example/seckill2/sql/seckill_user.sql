@@ -12,12 +12,8 @@ primary key(`id`)
 
 --插入一行
 insert into seckill_user(id,nickname,password,salt,register_date,last_login_date,login_count)
-values(15682894319,"leo","42573cbbf0b62e9b9eead56dc61289ee","xxy",'2019-12-01 00:00:00','2019-12-15 00:00:00',1);
+values(13012345678,"leo","42573cbbf0b62e9b9eead56dc61289ee","xxy",'2019-12-01 00:00:00','2019-12-15 00:00:00',1);
 
-insert into seckill_user(id,nickname,password,salt,register_date,last_login_date,login_count)
-values(18092796597,"yingzi","42573cbbf0b62e9b9eead56dc61289ee","xxy",'2019-12-01 00:00:00','2019-12-15 00:00:00',1);
 
-insert into seckill_user(id,nickname,password,salt,register_date,last_login_date,login_count)
-values(13012345678,"testUser","42573cbbf0b62e9b9eead56dc61289ee","xxy",'2019-12-01 00:00:00','2019-12-15 00:00:00',1);
 --
 select * from seckill_user;
